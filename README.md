@@ -5,4 +5,4 @@ Run getData.py to download tweet data (Need to replace the keys and tokens by yo
 Run analyze.py to get the analysis results.
 Run analyze.ipynb on notebook to get some fast results.
 
-Twitter forbids researchers to share the data (especially the tweet text) directly with others. Therefore, people with interest need to download again using getData.py. The keys and tokens of identity need to replaced.
+Twitter forbids researchers to share the data (especially the tweet text) directly with others. Therefore, people with interest need to download again using getData.py. The keys and tokens of identity need to be replaced.
