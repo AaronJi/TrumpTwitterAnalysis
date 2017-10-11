@@ -7,3 +7,5 @@ Run analyze.ipynb on notebook to get some fast results.
 
 Twitter forbids researchers to share the data (especially the tweet text) directly with others. Therefore, people with interest need to download again using getData.py. The credentials need to be replaced.
 
+Here is an introduction in Chinese: http://blog.csdn.net/Aaronji1222/article/details/78153269
+
